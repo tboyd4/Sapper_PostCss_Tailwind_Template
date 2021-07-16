@@ -18,7 +18,7 @@ npx degit "sveltejs/sapper-template#webpack" my-app
 To use this template
 
 ```bash
-npx degit "tboyd/Sapper_PostCss_Tailwind_Template#rollup" app-name
+npx degit "tboyd4/Sapper_PostCss_Tailwind_Template" app-name
 ```
 
 ### Using GitHub templates
